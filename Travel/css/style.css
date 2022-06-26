@@ -624,7 +624,7 @@ html{
 	line-height: 24px;
 	color: #FFFFFF;
 	max-width: 723px;
-	height: 24px
+	height: 24px;
 	margin-bottom: 46px;
 }
 .search-form__info{
@@ -727,7 +727,7 @@ html{
 	padding-top: 97px;
 	margin: 0 auto;
 	text-align: center;
-	max-width: 2520px
+	max-width: 2520px;
 }
 .destinations__text{
 	font-family: 'Red Hat Text';
