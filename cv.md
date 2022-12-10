@@ -52,4 +52,4 @@ Languages:
 
 2.Russian-native
 
-3.Belarusian-native
+3.Belarusian-nativef
