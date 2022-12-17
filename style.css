@@ -1,0 +1,87 @@
+body {
+	background-color: rgba(2, 2, 2, 0.164);
+	color: rgb(47, 38, 38);
+}
+.header {
+	display: flex;
+	height: 200px;
+	justify-content: left;
+	margin: 15px 0;
+}
+.header__nav {
+	padding-left: 50px;
+}
+.header__list {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+}
+.header__item {
+	margin-right: 30px;
+}
+.header__link {
+	font-size: 20px;
+	line-height: 50px;
+	color: rgb(188, 248, 248);
+	text-decoration: none;
+}
+.contact {
+	background-color: rgb(143, 140, 138);
+}
+.left-column {
+	width: 400px;
+	text-align: center;
+}
+
+.right-column {
+	width: 100%;
+	text-align: center;
+	padding: 0 50px;
+}
+
+.picture {
+	height: 200px;
+	border-radius: 50%;
+	border: 2px solid black;
+}
+
+.information-list {
+	padding: 0;
+	list-style: none;
+	text-align: justify;
+}
+
+.information {
+	display: flex;
+	justify-content: space-around;
+}
+
+.contact-item {
+	display: flex;
+}
+.contact-image {
+	background-position: center left;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 20px;
+	height: 20px;
+	margin-right: 10px;
+}
+.contact-image-github {
+	background-image: url(./github.svg);
+}
+.contact-image-telegram {
+	background-image: url(./telegram.svg);
+}
+.contact-image-email {
+	background-image: url(./email.svg);
+}
+.header__teacher {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+}
+.header__course {
+	font-size: 30px;
+	background-color: aquamarine;
+}
